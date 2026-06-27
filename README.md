@@ -25,5 +25,4 @@ A futuristic interactive parallax scrolling website built using HTML, CSS and Ja
 - JavaScript
 
 ## Author
-
-Your Name
+Khushi Omar
